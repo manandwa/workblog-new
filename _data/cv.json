@@ -1,0 +1,88 @@
+{
+    "basics": {
+      "name": "Mobin",
+      "label": "Biomedical Engineer",
+      "image": "",
+      "email": "manandwa@gmail.com",
+      "phone": "(317) 946-5047",
+      "url": "",
+      "summary": "",
+      "location": {
+        "address": "",
+        "postalCode": "",
+        "city": "Chicago",
+        "countryCode": "",
+        "region": "Illinois"
+      },
+      "profiles": [{
+        "network": "LinkedIn",
+        "username": "manandwa",
+        "url": "https://www.linkedin.com/in/mobinanand"
+      }]
+    },
+    "work": [{
+      "name": "Medgyn Products",
+      "position": "Product Development Engineer",
+      "url": "https://www.medgyn.com",
+      "startDate": "2021-02-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }],
+    "education": [{
+      "institution": "Indiana University Purdue University Indianpolis",
+      "url": "https://www.iupui.edu/",
+      "area": "Biomedical Engineering",
+      "studyType": "Masters",
+      "startDate": "2013-01-01",
+      "endDate": "2015-05-10",
+      "score": "3.094"
+    }],
+    "skills": [{
+      "name": "Computer Aided Design",
+      "level": "Proficient",
+      "keywords": [
+        "Onshape",
+        "Fusion 360",
+        "Solidworks"
+      ]
+    },
+    {
+      "name": "Softwware Development",
+      "level": "Proficient",
+      "keywords":[
+        "Python",
+        "R",
+        "MatLab"
+      ]
+    }]
+  }
+  Integrations
+  Export your profile into the JSON Resume format from the services below:
+  
+  gitconnected Logo
+  gitconnected
+  
+  https://gitconnected.com
+  
+  Career tools for developers. Effortlessly manage your portfolio and resume - level up your career.
+  
+  Represent Logo
+  Represent
+  
+  https://represent.io
+  
+  Represent is the best way to create a beautiful and professional resume in minutes.
+  
+  DoYouBuzz Logo
+  DoYouBuzz
+  
+  https://www.doyoubuzz.com
+  
+  Creating a resume has never been easier. In a few minutes, you will have a beautiful resume you can use anywhere.
+  
+  JSON RESUME IS OPEN SOURCE
+  
+  VIEW ON GITHUB
